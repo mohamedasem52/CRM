@@ -1,0 +1,8 @@
+{
+  "name": "Experts-Care Medical Group CRM (v27)",
+  "description": "نظام إدارة وعلاقات المرضى ومتابعة المكالمات لمجموعة إكسبرتس كير الطبية (v27) - بوابات الموظفين والإدارة، تحليلات SLA، والجودة والذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
